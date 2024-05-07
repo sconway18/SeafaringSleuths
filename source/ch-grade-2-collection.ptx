@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-grade-2-collection" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Seafaring Sleuths for Second Grade</title>
+
+  <introduction>
+    <p> This chapter contains the misadventures of the Seafaring Sleuths at a 
+      second grade level. This means that the reading level is targeted at 
+      second grade students, the mathematics and science topics encountered 
+      are also at a second grade level. Each section begins with Common Core 
+      standards covered by the reading, comprehension, mathematics, and science 
+      topics that learners will encounter through that section's mystery. </p>
+    <p> We hope that you, and your students, enjoy these stories as much as we 
+      enjoy creating them!</p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-grade-2-m1.ptx" />
+
+</chapter>
