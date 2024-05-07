@@ -13,7 +13,7 @@
 
     <!-- Include chapters -->
     <xi:include href="./ch-grade-2-collection.ptx" />
-
+    <xi:include href="./ch-grade-6-collection.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

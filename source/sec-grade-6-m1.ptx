@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-grade-6-m1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Title</title>
+
+<p>I am going to write a second story here.</p> 
+
+
+
+<exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+
+
+  </introduction><myopenmath problem="1377976" />
+</exercise>
+
+
+</section>
