@@ -16,5 +16,5 @@
 
   <!-- include sections -->
   <xi:include href="sec-grade-2-m1.ptx" />
-
+  <xi:include href="sec-grade-2-m2.ptx" />
 </chapter>
