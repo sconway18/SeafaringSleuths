@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-grade-2-m1" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-grade-4-m1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>The Sunken Treasure</title>
 
 <p> <b>Note:</b> This is simply a <i>Proof of Concept</i> and prototype, 
@@ -20,10 +20,6 @@
   of our current position." </p>
 
 <exercise exercise-customization="inline" exercise-interactive="static"><title>A Navigation Plan</title><introduction>
-    <p>Determine how many kilometers east (right) and how many kilometers south
-      (down) Captail Lily and the Seafaring Sleuths should sail in order to 
-      arrive at the location of the sunken treasure.
-    </p>
   </introduction><myopenmath problem="1377733" />
 </exercise>
 

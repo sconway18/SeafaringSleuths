@@ -63,12 +63,7 @@
   // Configure tool-specific properties.
   "customizations": {
     "codespaces": {
-      "openFiles": ["source/main.ptx"],
-      "repositories":{
-        "agmath/SeafaringSleuths":{
-          "permissions": "write-all"
-        }
-      }
+      "openFiles": ["source/main.ptx"]
     },
     "vscode": {
       "settings": {
