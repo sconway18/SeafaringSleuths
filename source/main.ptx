@@ -6,13 +6,17 @@
 
   <book xml:id="seafaring-sleuths">
     <title>Seafaring Sleuths, a Math and Science Mystery Series</title>
-    <subtitle>An Interactive Mystery Series for 1st - 6th Grade Students</subtitle>
+    <subtitle>An Interactive Collection of Mysteries for 1st - 6th Grade Students</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
+    <xi:include href="./ch-grade-1-collection.ptx" />
+    <xi:include href="./ch-grade-2-collection.ptx" />
+    <xi:include href="./ch-grade-3-collection.ptx" />
     <xi:include href="./ch-grade-4-collection.ptx" />
+    <xi:include href="./ch-grade-5-collection.ptx" />
     <xi:include href="./ch-grade-6-collection.ptx" />
 
     <!-- Include backmatter -->
