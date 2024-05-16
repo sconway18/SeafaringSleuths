@@ -19,13 +19,40 @@ var ptx_lunr_docs = [
   "body": " Seafaring Sleuths for First Grade   This chapter contains the misadventures of the Seafaring Sleuths at a first grade level. This means that the reading level is targeted at first grade students, the mathematics and science topics encountered are also at a first grade level. Each story (section) will eventually begins with Common Core standards covered by the reading, comprehension, mathematics, and science topics that learners will encounter through that section's mystery.  We hope that you, and your students, enjoy these stories as much as we enjoy creating them!    "
 },
 {
-  "id": "ch-grade-2-collection",
+  "id": "sec-grade-2-m1",
   "level": "1",
-  "url": "ch-grade-2-collection.html",
-  "type": "Chapter",
-  "number": "2",
-  "title": "Seafaring Sleuths for Second Grade",
-  "body": " Seafaring Sleuths for Second Grade   This chapter contains the misadventures of the Seafaring Sleuths at a second grade level. This means that the reading level is targeted at second grade students, the mathematics and science topics encountered are also at a second grade level. Each story (section) will eventually begins with Common Core standards covered by the reading, comprehension, mathematics, and science topics that learners will encounter through that section's mystery.  We hope that you, and your students, enjoy these stories as much as we enjoy creating them!    "
+  "url": "sec-grade-2-m1.html",
+  "type": "Section",
+  "number": "2.1",
+  "title": "The SS Curiosity",
+  "body": " The SS Curiosity  This is the pilot and origin story for the Seafaring Sleuths at a second grade level.  Common Core Standards Touched  The following Common Core Standards are touched as learners work through this first Seafaring Sleuth's story.  CCSS.MATH.CONTENT.2.0A.B.2 : add and subtract within 20  CCSS.MATH.CONTENT.2.0A.C.4 : use addition to find the total number of objects arranged in a rectangular array     A Life at Sea  In Seabrook, a small town by the sea, three best friends named Lily, Max, and Mia wander the beach. They loved to explore the sands at the edge of the ocean, looking for seashells and watching the waves crash against the shore. Hopscotch, Lily's rooster followed closely behind, pecking in the grass and sand, snacking on some bugs. On this sunny afternoon, as they were playing by the water's edge, Max noticed something strange washed up on the sand.  It was a rusty old submarine, covered in seaweed and barnacles. The friends were amazed! They had never seen a real submarine before. As they got closer, they saw a note attached to the submarine's hatch. It read: \"To the brave adventurers who find this, the seas await your curiosity. Come aboard and set sail!\"   Lily, Max, and Mia looked at each other with excitement. They had always dreamed of going on a real adventure, and here was their chance! With a sense of anticipation, they climbed aboard the submarine.  Inside, they found the submarine's control room. It was filled with all sorts of buttons, levers, and screens. But to their surprise, everything seemed kid-friendly and easy to understand. It was as if the submarine was meant for them to explore!  As they looked around, they noticed something else peculiar. The submarine had a small library filled with books about math and science. There were books about numbers and operations, geometry and navigation at sea, and even marine biology. It was as if the submarine was inviting them to learn and discover new things.  As they continued to explore, Mia noticed a large chair surrounded by important-looking electronics. There were several raised video screens and hundreds of buttons on the control panel in front of the chair. In all her excitement, as she called out to Lily and Max, she tripped on the base of the chair, falling backwards towards the control panel. Mia's hand fell onto the biggest, shinyest, red button on the panel as she caught herself. One of the raised screens began to light up.  The three friends looked intently at the screen, as the words began to come into focus. As they waited, a voice came over the speakers hidden in the coners of the navigation room, \"Hello Seafaring Sleuths. Welcome aboard the SS Curiosity!\" The words on the screen could be read now, they appear in the box below.  A Navigation Plan   Having used the control panel to type in the answer, Lily, Max, and Mia began to hear a loud whoosh and then a lot of splashing outside. They felt the submarine begin to rise. A new question appeared on the captain's screen.  A Navigation Plan   With that answer typed in, the friends braced themselves as the submarine began to move. The SS Curiosity began to glide out to sea, Lily, Max, and Mia (along with their loyal friend, Hopscotch the rooster) looked at each other with wide eyes. They didn't know where they were headed, but one thing was for sure -- they were embarking on the adventure of a lifetime!   Recapping What we Read  As we follow the adventures of the Seafaring Sleuths, readers will answer math and science questions to progress through the stories, find and access treasures, and solve other mysteries at sea. As important as the math and science content is, it is also important to ensure that the reader comprehends what they've read and can explain back the important components of each story. Because of this, each section\/story will end with a set of reading comprehension and critical thinking questions.  A Navigation Plan    "
+},
+{
+  "id": "sec-grade-2-m1-4-9",
+  "level": "2",
+  "url": "sec-grade-2-m1.html#sec-grade-2-m1-4-9",
+  "type": "Checkpoint",
+  "number": "2.1.1",
+  "title": "A Navigation Plan.",
+  "body": "A Navigation Plan  "
+},
+{
+  "id": "sec-grade-2-m1-4-11",
+  "level": "2",
+  "url": "sec-grade-2-m1.html#sec-grade-2-m1-4-11",
+  "type": "Checkpoint",
+  "number": "2.1.2",
+  "title": "A Navigation Plan.",
+  "body": "A Navigation Plan  "
+},
+{
+  "id": "sec-grade-2-m1-5-3",
+  "level": "2",
+  "url": "sec-grade-2-m1.html#sec-grade-2-m1-5-3",
+  "type": "Checkpoint",
+  "number": "2.1.3",
+  "title": "A Navigation Plan.",
+  "body": "A Navigation Plan  "
 },
 {
   "id": "ch-grade-3-collection",

@@ -15,8 +15,7 @@
       enjoy creating them!</p>
   </introduction>
 
-  <!-- include sections 
-  <xi:include href="sec-grade-4-m1.ptx" />
-  <xi:include href="sec-grade-4-m2.ptx" />
+  <xi:include href="sec-grade-2-m1.ptx" />
+  <!--<xi:include href="sec-grade-4-m2.ptx" />
   -->
 </chapter>

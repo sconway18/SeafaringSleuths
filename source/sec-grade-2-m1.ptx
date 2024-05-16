@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-grade-2-m1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>The SS Curiosity</title>
+    <introduction> This is the pilot and origin story for the <i>Seafaring 
+    Sleuths</i> at a second grade level.
+    </introduction>
+    
+    <subsection><title>Common Core Standards Touched</title>
+        <p> The following Common Core Standards are touched as learners work through
+        this first Seafaring Sleuth's story.
+        <ul>
+            <li><c>CCSS.MATH.CONTENT.2.0A.B.2</c>: add and subtract within 20</li>
+            <li><c>CCSS.MATH.CONTENT.2.0A.C.4</c>: use addition to find the total 
+                number of objects arranged in a rectangular array</li>
+        </ul>
+        </p>
+    </subsection>
+  
+    <subsection><title>A Life at Sea</title>
+        <introduction>In Seabrook, a small town by the sea, three best friends named 
+        Lily, Max, and Mia wander the beach. They loved to explore the sands at 
+        the edge of the ocean, looking for seashells and watching the waves crash 
+        against the shore. Hopscotch, Lily's rooster followed closely behind, 
+        pecking in the grass and sand, snacking on some bugs. On this sunny 
+        afternoon, as they were playing by the water's edge, Max noticed something 
+        strange washed up on the sand.
+        </introduction>
+    
+        <p>It was a rusty old submarine, covered in seaweed and barnacles. 
+            The friends were amazed! They had never seen a real submarine 
+            before. As they got closer, they saw a note attached to the 
+            submarine's hatch. It read: <i>"To the brave adventurers who find 
+            this, the seas await your curiosity. Come aboard and set sail!"</i>
+        </p>
+    
+        <p>Lily, Max, and Mia looked at each other with excitement. They had 
+            always dreamed of going on a real adventure, and here was their 
+            chance! With a sense of anticipation, they climbed aboard the 
+            submarine.
+        </p>
+
+        <p>Inside, they found the submarine's control room. It was filled with 
+            all sorts of buttons, levers, and screens. But to their surprise, 
+            everything seemed kid-friendly and easy to understand. It was as if 
+            the submarine was meant for them to explore!
+        </p>
+
+        <p>As they looked around, they noticed something else peculiar. The 
+            submarine had a small library filled with books about math and science. 
+            There were books about numbers and operations, geometry and navigation 
+            at sea, and even marine biology. It was as if the submarine was inviting 
+            them to learn and discover new things.
+        </p>
+
+        <p>As they continued to explore, Mia noticed a large chair surrounded by 
+            important-looking electronics. There were several raised video screens 
+            and hundreds of buttons on the control panel in front of the chair. In 
+            all her excitement, as she called out to Lily and Max, she tripped on the 
+            base of the chair, falling backwards towards the control panel. Mia's hand 
+            fell onto the biggest, shinyest, red button on the panel as she caught 
+            herself. One of the raised screens began to light up.
+        </p> 
+        
+        <p>The three friends looked intently at the screen, as the words began to 
+            come into focus. As they waited, a voice came over the speakers hidden 
+            in the coners of the navigation room, <i>"Hello Seafaring Sleuths. Welcome 
+            aboard the SS Curiosity!"</i> The words on the screen could be read now, 
+            they appear in the box below.
+        </p>
+
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>A Navigation Plan</title><introduction>
+            </introduction><myopenmath problem="1382288" />
+        </exercise>
+
+        <p>Having used the control panel to type in the answer, Lily, Max, and Mia 
+            began to hear a loud <i>whoosh</i> and then a lot of splashing outside. 
+            They felt the submarine begin to rise. A new question appeared on the 
+            captain's screen.
+        </p>
+
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>A Navigation Plan</title><introduction>
+            </introduction><myopenmath problem="1382308" />
+        </exercise>
+
+        <p>With that answer typed in, the friends braced themselves as the submarine 
+            began to move. The SS Curiosity began to glide out to sea, Lily, Max, and 
+            Mia (along with their loyal friend, Hopscotch the rooster) looked at each 
+            other with wide eyes. They didn't know where they were headed, but one thing 
+            was for sure -- they were embarking on the adventure of a lifetime!
+        </p>
+    </subsection>
+    
+    <subsection><title>Recapping What we Read</title>
+    
+        <introduction>As we follow the adventures of the Seafaring Sleuths, 
+            readers will answer math and science questions to progress through 
+            the stories, find and access treasures, and solve other mysteries at 
+            sea. As important as the math and science content is, it is also 
+            important to ensure that the reader comprehends what they've read and 
+            can explain back the important components of each story. Because of this,
+            each section/story will end with a set of reading comprehension and 
+            critical thinking questions.
+        </introduction>
+
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>A Navigation Plan</title><introduction>
+        </introduction><myopenmath problem="1382356" />
+        </exercise>
+
+    </subsection>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</section>
