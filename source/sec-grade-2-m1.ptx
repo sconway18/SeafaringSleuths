@@ -10,7 +10,8 @@
         <p> The following Common Core Standards are touched as learners work through
         this first Seafaring Sleuth's story.
         <ul>
-            <li><c>CCSS.MATH.CONTENT.2.0A.B.2</c>: add and subtract within 20</li>
+            <li><c>CCSS.MATH.CONTENT.2.0A.A.1</c>: represent and solve problems using 
+                addition and subtraction within 100</li>
             <li><c>CCSS.MATH.CONTENT.2.0A.C.4</c>: use addition to find the total 
                 number of objects arranged in a rectangular array</li>
         </ul>
@@ -69,7 +70,7 @@
             they appear in the box below.
         </p>
 
-        <exercise exercise-customization="inline" exercise-interactive="static"><title>A Navigation Plan</title><introduction>
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>Raising the Sub</title><introduction>
             </introduction><myopenmath problem="1382288" />
         </exercise>
 
@@ -79,7 +80,7 @@
             captain's screen.
         </p>
 
-        <exercise exercise-customization="inline" exercise-interactive="static"><title>A Navigation Plan</title><introduction>
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>Counting Coins</title><introduction>
             </introduction><myopenmath problem="1382308" />
         </exercise>
 
@@ -103,7 +104,7 @@
             critical thinking questions.
         </introduction>
 
-        <exercise exercise-customization="inline" exercise-interactive="static"><title>A Navigation Plan</title><introduction>
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>Reading Comprehension Check</title><introduction>
         </introduction><myopenmath problem="1382356" />
         </exercise>
 
