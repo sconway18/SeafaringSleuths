@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-grade-1-m1" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>The SS Curiosity</title>
+    <introduction> This is the pilot and origin story for the <i>Seafaring 
+    Sleuths</i> at a first grade level.
+    </introduction>
+    
+    <subsection><title>Common Core Standards Touched</title>
+        <p> The following Common Core Standards are touched as learners work through
+        this first Seafaring Sleuth's story.
+        <ul>
+            <li><c>CCSS.MATH.CONTENT.1.NBT.A.1</c>: extend the counting sequence.</li>
+            <li><c>CCSS.MATH.CONTENT.1.NBT.B.2.C</c>: The numbers 10, 20, 30, 40, 50,
+            60, 70, 80, 90 refer to one, two, three, four, five, six, seven, eight, 
+            nine tens (and 0 ones).</li>
+        </ul>
+        </p>
+    </subsection>
+  
+    <subsection><title>Adventure Begins</title>
+        <p> In Seabrook, a small town by the sea, three best friends named Lily, 
+            Max, and Mia loved to play on the beach. They liked to look for 
+            seashells and watch the waves. Lily's pet rooster, Hopscotch, always 
+            followed them, pecking in the sand.
+        </p>
+
+        <p> One sunny day, Max saw something strange on the sand. It was an old 
+            submarine, covered in seaweed and barnacles. The friends were amazed! 
+            They had never seen a real submarine before. They found a note on the 
+            submarine. It said, "To the brave adventurers who find this, the seas 
+            need your help. Come aboard and set sail!"
+        </p>
+
+        <p> Lily, Max, and Mia were so excited. They climbed into the submarine. 
+            Inside, they saw many buttons, levers, and screens. Everything looked 
+            easy to use, as if it was made for kids. They also found a small library 
+            with books about math and science. It seemed like the submarine wanted 
+            them to learn new things.
+        </p>
+
+        <p> Mia saw a big chair with lots of buttons around it. She was so excited 
+            that she tripped and fell. Her hand hit the biggest, shiniest, red button. 
+            A screen lit up. The friends looked at the screen, and a voice said, "Hello 
+            Seafaring Sleuths. Welcome aboard the SS Curiosity!" A question was on the 
+            screen.
+        </p>
+
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>Raising the Sub</title><introduction>
+        </introduction><myopenmath problem="1385556" />
+        </exercise>
+
+        <p> They typed the answers into the control panel. They heard a loud whoosh and 
+            felt the submarine rise. A new question appeared on the screen. 
+        </p>
+        
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>Starfish in Need</title><introduction>
+        </introduction><myopenmath problem="1385559" />
+        </exercise>
+        
+        <p>They typed in the answer and felt the submarine start to move. The SS 
+            Curiosity began to glide out to sea. Lily, Max, and Mia, along with Hopscotch, looked at each other with wide 
+            eyes. They didn't know where they were going, but they knew it would be an 
+            adventure!
+        </p>
+    </subsection>
+    
+    <subsection><title>Recapping What we Read</title>
+    
+        <introduction>As we follow the adventures of the Seafaring Sleuths, 
+            readers will answer math and science questions to progress through 
+            the stories, find and access treasures, and solve other mysteries at 
+            sea. As important as the math and science content is, it is also 
+            important to ensure that the reader comprehends what they've read and 
+            can explain back the important components of each story. Because of this,
+            each section/story will end with a set of reading comprehension and 
+            critical thinking questions.
+        </introduction>
+
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>Reading Comprehension Check</title><introduction>
+        </introduction><myopenmath problem="1385560" />
+        </exercise>
+
+    </subsection>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</section>

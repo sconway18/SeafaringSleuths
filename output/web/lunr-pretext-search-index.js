@@ -10,13 +10,40 @@ var ptx_lunr_docs = [
   "body": "  My Website   copyright  "
 },
 {
-  "id": "ch-grade-1-collection",
+  "id": "sec-grade-1-m1",
   "level": "1",
-  "url": "ch-grade-1-collection.html",
-  "type": "Chapter",
-  "number": "1",
-  "title": "Seafaring Sleuths for First Grade",
-  "body": " Seafaring Sleuths for First Grade   This chapter contains the misadventures of the Seafaring Sleuths at a first grade level. This means that the reading level is targeted at first grade students, the mathematics and science topics encountered are also at a first grade level. Each story (section) will eventually begins with Common Core standards covered by the reading, comprehension, mathematics, and science topics that learners will encounter through that section's mystery.  We hope that you, and your students, enjoy these stories as much as we enjoy creating them!    "
+  "url": "sec-grade-1-m1.html",
+  "type": "Section",
+  "number": "1.1",
+  "title": "The SS Curiosity",
+  "body": " The SS Curiosity  This is the pilot and origin story for the Seafaring Sleuths at a first grade level.  Common Core Standards Touched  The following Common Core Standards are touched as learners work through this first Seafaring Sleuth's story.  CCSS.MATH.CONTENT.1.NBT.A.1 : extend the counting sequence.  CCSS.MATH.CONTENT.1.NBT.B.2.C : The numbers 10, 20, 30, 40, 50, 60, 70, 80, 90 refer to one, two, three, four, five, six, seven, eight, nine tens (and 0 ones).     Adventure Begins  In Seabrook, a small town by the sea, three best friends named Lily, Max, and Mia loved to play on the beach. They liked to look for seashells and watch the waves. Lily's pet rooster, Hopscotch, always followed them, pecking in the sand.  One sunny day, Max saw something strange on the sand. It was an old submarine, covered in seaweed and barnacles. The friends were amazed! They had never seen a real submarine before. They found a note on the submarine. It said, \"To the brave adventurers who find this, the seas need your help. Come aboard and set sail!\"  Lily, Max, and Mia were so excited. They climbed into the submarine. Inside, they saw many buttons, levers, and screens. Everything looked easy to use, as if it was made for kids. They also found a small library with books about math and science. It seemed like the submarine wanted them to learn new things.  Mia saw a big chair with lots of buttons around it. She was so excited that she tripped and fell. Her hand hit the biggest, shiniest, red button. A screen lit up. The friends looked at the screen, and a voice said, \"Hello Seafaring Sleuths. Welcome aboard the SS Curiosity!\" A question was on the screen.  Raising the Sub   They typed the answers into the control panel. They heard a loud whoosh and felt the submarine rise. A new question appeared on the screen.  Starfish in Need   They typed in the answer and felt the submarine start to move. The SS Curiosity began to glide out to sea. Lily, Max, and Mia, along with Hopscotch, looked at each other with wide eyes. They didn't know where they were going, but they knew it would be an adventure!   Recapping What we Read  As we follow the adventures of the Seafaring Sleuths, readers will answer math and science questions to progress through the stories, find and access treasures, and solve other mysteries at sea. As important as the math and science content is, it is also important to ensure that the reader comprehends what they've read and can explain back the important components of each story. Because of this, each section\/story will end with a set of reading comprehension and critical thinking questions.  Reading Comprehension Check    "
+},
+{
+  "id": "sec-grade-1-m1-4-6",
+  "level": "2",
+  "url": "sec-grade-1-m1.html#sec-grade-1-m1-4-6",
+  "type": "Checkpoint",
+  "number": "1.1.1",
+  "title": "Raising the Sub.",
+  "body": "Raising the Sub  "
+},
+{
+  "id": "sec-grade-1-m1-4-8",
+  "level": "2",
+  "url": "sec-grade-1-m1.html#sec-grade-1-m1-4-8",
+  "type": "Checkpoint",
+  "number": "1.1.2",
+  "title": "Starfish in Need.",
+  "body": "Starfish in Need  "
+},
+{
+  "id": "sec-grade-1-m1-5-3",
+  "level": "2",
+  "url": "sec-grade-1-m1.html#sec-grade-1-m1-5-3",
+  "type": "Checkpoint",
+  "number": "1.1.3",
+  "title": "Reading Comprehension Check.",
+  "body": "Reading Comprehension Check  "
 },
 {
   "id": "sec-grade-2-m1",
