@@ -141,15 +141,24 @@ var ptx_lunr_docs = [
   "url": "sec-grade-6-m1.html",
   "type": "Section",
   "number": "6.1",
-  "title": "Title",
-  "body": " Title  I am going to write a second story here.  A Random Problem   "
+  "title": "1.1 Seafearing Sleuths",
+  "body": " 1.1 Seafearing Sleuths  This is the pilot and origin story for the Seafaring Sleuths at a sixth grade level.  1.1.1 Common Core Standards Touched\"  CCSS.MATH.CONTENT.6.RP.A.1 Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. CCSS.MATH.CONTENT.6.RP.A.2 Understand the concept of a unit rate a\/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship.  1.1.2 Adventure Begins  In Seabrook, a small town by the sea, three best friends named Lily, Max, and Mia loved to play on the beach. They liked to look for seashells and watch the waves. Lily’s pet rooster, Hopscotch, always followed them, pecking in the sand.  One sunny day, Max saw something strange on the sand. It was an old submarine, covered in seaweed and barnacles. The friends were amazed! They had never seen a real submarine before. They found a note on the submarine. It said, \"To the brave adventurers who find this, the seas need your help. Come aboard and set sail!\"  Lily, Max, and Mia were so excited. They climbed into the submarine. Inside, they saw many buttons, levers, and screens. Everything looked easy to use, as if it was made for kids. They also found a small library with books about math and science. It seemed like the submarine wanted them to learn new things.  Mia saw a big chair with lots of buttons around it. She was so excited that she tripped and fell. Her hand hit the biggest, shiniest, red button. A screen lit up. The friends looked at the screen, and a voice said, \"Hello Seafaring Sleuths. Welcome aboard the SS Curiosity!\" A question was on the screen.  A Random Problem   They typed the answers into the control panel. They heard a loud whoosh and felt the submarine rise. A new question appeared on the screen.  A Random Problem   They typed in the answer and felt the submarine start to move. The SS Curiosity began to glide out to sea. Lily, Max, and Mia, along with Hopscotch, looked at each other with wide eyes. They didn’t know where they were going, but they knew it would be an adventure!  "
 },
 {
-  "id": "sec-grade-6-m1-3",
+  "id": "sec-grade-6-m1-10",
   "level": "2",
-  "url": "sec-grade-6-m1.html#sec-grade-6-m1-3",
+  "url": "sec-grade-6-m1.html#sec-grade-6-m1-10",
   "type": "Checkpoint",
   "number": "6.1.1",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m1-12",
+  "level": "2",
+  "url": "sec-grade-6-m1.html#sec-grade-6-m1-12",
+  "type": "Checkpoint",
+  "number": "6.1.2",
   "title": "A Random Problem.",
   "body": "A Random Problem  "
 },
