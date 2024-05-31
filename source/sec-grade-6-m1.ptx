@@ -7,12 +7,13 @@
 
 <p>1.1.1 Common Core Standards Touched"</p>
 
-<p>CCSS.MATH.CONTENT.6.RP.A.1 Understand the concept of a ratio and use 
-  ratio language to describe a ratio relationship between two quantities.  
-
-  CCSS.MATH.CONTENT.6.RP.A.2 Understand the concept of a unit rate a/b 
-  associated with a ratio a:b with b ≠ 0, and use rate language in the 
-  context of a ratio relationship. </p>
+<ul>
+  <li><c>CCSS.MATH.CONTENT.6.RP.A.1</c>: understand the concept of a ratio and use 
+    ratio language to describe a ratio relationship between two quantities.</li>
+  <li><c>CCSS.MATH.CONTENT.6.RP.A.2</c>: Understand the concept of a unit rate <m>a/b</m> 
+    associated with a ratio <m>a:b</m> with <m>b \neq 0</m>, and use rate language in the 
+    context of a ratio relationship.</li>
+</ul>
 
 
 <p>1.1.2 Adventure Begins </p>
