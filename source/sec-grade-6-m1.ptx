@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-grade-6-m1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>1.1 Seafearing Sleuths</title>
+  <title>The SS Curiosity</title>
 
 <p>This is the pilot and origin story for the Seafaring Sleuths at a sixth grade level.</p> 
 
-<p>1.1.1 Common Core Standards Touched"</p>
+<subsection><title>Common Core Standards Touched</title>
 
 <ul>
   <li><c>CCSS.MATH.CONTENT.6.RP.A.1</c>: understand the concept of a ratio and use 
@@ -14,13 +14,13 @@
     associated with a ratio <m>a:b</m> with <m>b \neq 0</m>, and use rate language in the 
     context of a ratio relationship.</li>
 </ul>
+</subsection>
 
-
-<p>1.1.2 Adventure Begins </p>
+<subsection><title>Adventure Begins</title>
 
 <p> In Seabrook, a small town by the sea, three best friends named Lily, 
   Max, and Mia loved to play on the beach. They liked to look for seashells 
-  and watch the waves. Lily’s pet rooster, Hopscotch, always followed them, 
+  and watch the waves. Lily's pet rooster, Hopscotch, always followed them, 
   pecking in the sand. </p>
 
  <p>One sunny day, Max saw something strange on the sand. It was an old 
@@ -62,6 +62,6 @@
   began to glide out to sea. Lily, Max, and Mia, along with Hopscotch, looked at each 
   other with wide eyes. They didn’t know where they were going, but they knew it 
   would be an adventure! </p>
-
+</subsection>
 
 </section>
