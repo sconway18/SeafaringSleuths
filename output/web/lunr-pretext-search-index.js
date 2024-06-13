@@ -163,6 +163,15 @@ var ptx_lunr_docs = [
   "body": "A Random Problem  "
 },
 {
+  "id": "sec-grade-6-m2",
+  "level": "1",
+  "url": "sec-grade-6-m2.html",
+  "type": "Section",
+  "number": "6.2",
+  "title": "The SS Curiosity",
+  "body": " The SS Curiosity  Chapter 2 will go here  "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
