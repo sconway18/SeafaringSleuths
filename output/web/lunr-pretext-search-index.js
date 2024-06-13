@@ -172,6 +172,24 @@ var ptx_lunr_docs = [
   "body": " The SS Curiosity  Chapter 2 will go here  "
 },
 {
+  "id": "sec-grade-6-m3",
+  "level": "1",
+  "url": "sec-grade-6-m3.html",
+  "type": "Section",
+  "number": "6.3",
+  "title": "The SS Curiosity",
+  "body": " The SS Curiosity  Chapter 3 will go here  "
+},
+{
+  "id": "sec-grade-6-m4",
+  "level": "1",
+  "url": "sec-grade-6-m4.html",
+  "type": "Section",
+  "number": "6.4",
+  "title": "The SS Curiosity",
+  "body": " The SS Curiosity  Chapter 4 will go here  "
+},
+{
   "id": "backmatter-2",
   "level": "1",
   "url": "backmatter-2.html",
