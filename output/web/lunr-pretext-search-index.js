@@ -168,8 +168,8 @@ var ptx_lunr_docs = [
   "url": "sec-grade-6-m2.html",
   "type": "Section",
   "number": "6.2",
-  "title": "The SS Curiosity",
-  "body": " The SS Curiosity  Chapter 2 will go here  "
+  "title": "Placeholder",
+  "body": " Placeholder  Chapter 2 will go here  "
 },
 {
   "id": "sec-grade-6-m3",
