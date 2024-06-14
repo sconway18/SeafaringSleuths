@@ -1,8 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-grade-6-m3" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The SS Curiosity</title>
+  <title>The Underwater Puzzle</title>
 
-<p>Chapter 3 will go here</p>
+  <subsection><title>Common Core Standards Touched</title>
+    <p> The following Common Core Standards are touched as learners work through
+      this Seafaring Sleuth's story.
+      <ul>
+          <li><c>CCSS.MATH.CONTENT.6.RP.A.3.A </c> Make tables of equivalent ratios relating 
+            quantities with whole-number measurements, find missing values in the tables, 
+            and plot the pairs of values on the coordinate plane. Use tables to compare ratios. </li>
+
+    </ul>
+    </p>
+    </subsection>
+
+    <subsection><title>The Underwater Puzzle</title>
+
+      <p>As the SS Curiosity glided further into the deep ocean, the friends marveled at 
+        the fascinating marine life around them. Suddenly, the submarine came to a gentle stop. 
+        The screen lit up again, and the friendly voice spoke, "To continue your journey, you 
+        must solve the next challenge. Use your math skills to navigate successfully." </p>
+     
+       <p>A new screen appeared, displaying a complex-looking underwater puzzle. </p>
+       
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="1391739" />
+       </exercise>
+       
+       
+       <p>They typed the completed table into the control panel. The screen flashed a bright green, indicating their 
+        answers were correct. Another question appeared. </p>
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="1391745" />
+       </exercise>
+       
+       
+      <p>Lily stated, "We can use this graph to predict future values. It's like a map guiding us forward." </p>
+     
+       <p> The control panel beeped and displayed a new message, "Great job, Seafaring Sleuths! You have successfully 
+        navigated this part of your journey. Prepare for the next adventure!"  </p>
+       
+      <p>The submarine started moving again, smoothly and confidently. The friends knew they were getting better at 
+        solving the challenges and felt ready for whatever came next. </p>
+
+       <p> The screen went dark, and the friends took a moment to relax. They knew more adventures and puzzles awaited 
+        them, but with teamwork and a little math, they felt prepared for anything. </p>
+     
+       </subsection>
 
 </section>

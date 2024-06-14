@@ -1,8 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-grade-6-m4" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The SS Curiosity</title>
+  <title>The Sunken City</title>
 
-<p>Chapter 4 will go here</p>
+  <subsection><title>Common Core Standards Touched</title>
+    <p> The following Common Core Standards are touched as learners work through
+      this Seafaring Sleuth's story.
+      <ul>
+          <li><c>CCSS.MATH.CONTENT.6.RP.A.3.B</c> Solve unit rate problems including those involving 
+            unit pricing and constant speed.  </li>
+
+    </ul>
+    </p>
+    </subsection>
+
+    <subsection><title>The Sunken City</title>
+
+      <p>The SS Curiosity continued its voyage through the deep ocean, the waters growing darker and the mysteries deepening. 
+        Suddenly, the submarine's lights illuminated a grand, ancient city submerged beneath the waves. The screen flickered 
+        on once more, and the friendly voice said, "Welcome to the Sunken City. To proceed, you must solve the following 
+        challenges."  </p>
+       
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="123456" />
+       </exercise>
+       
+       
+       <p>The submarine's lights flashed green, signaling the correct answer and the screen displayed another question: </p>
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="123456" />
+       </exercise>
+       
+       
+      <p>The submarine's lights flickered, and a cheerful chime confirmed their answer was correct. </p>
+     
+       <p> "Excellent work, Seafaring Sleuths!" the voice said. "You have successfully navigated 
+        the Sunken City. Prepare for the next adventure!" </p>
+       
+      <p>The submarine glided smoothly out of the ancient city, moving deeper into the unknown. The friends 
+        felt a sense of accomplishment and excitement. They knew more challenges awaited them, but they were 
+        confident that with their combined skills and a bit of math, they could overcome any obstacle.  </p>
+     
+       </subsection>
 
 </section>

@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-grade-6-m2" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Placeholder</title>
+  <title>The First Challenge</title>
+  <introduction> This is Chapter 2 of the <i>Seafaring Sleuths</i> at a sixth grade level.
+    </introduction>
 
-<p>Chapter 2 will go here</p>
+    <subsection><title>Common Core Standards Touched</title>
+<p> The following Common Core Standards are touched as learners work through
+  this Seafaring Sleuth's story.
+  <ul>
+      <li><c>CCSS.MATH.CONTENT.6.RP.A.3 </c> Use ratio and rate reasoning to solve real-world 
+  and mathematical problems.</li>
+</ul>
+</p>
+</subsection>
 
+<subsection><title>The First Challenge</title>
+
+ <p>The SS Curiosity glided smoothly beneath the waves. Through the portholes, 
+  Lily, Max, and Mia could see schools of colorful fish swimming by. Hopscotch 
+  clucked nervously but stayed close to Lily. </p>
+
+  <p>The screen in front of them lit up again, and the friendly voice spoke, 
+    "To ensure your safe passage and help the seas, you must solve the challenges 
+    that lie ahead. Your first challenge awaits. Good luck, Seafaring Sleuths!" </p>
+  
+  <p>A new question appeared on the screen: </p>
+  
+    <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+
+
+    </introduction><myopenmath problem="1388446" />
+  </exercise>
+  
+  
+  <p>Max quickly grabbed a pencil and paper from the desk in the corner as Mia peered over his shoulder. 
+    They typed their answer into the control panel. The submarine gave a little jolt and then started to 
+    move at the correct speed. They were on their way through the canyon! </p>
+
+    <p>As they emerged from the canyon, they found themselves in a beautiful underwater garden. Tall seaweed 
+      swayed with the current, and brightly colored coral dotted the landscape. But the screen lit up once 
+      more with a new challenge. </p>
+  
+    <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+
+
+    </introduction><myopenmath problem="1388449" />
+  </exercise>
+  
+  
+ <p>They entered their answer into the control panel. The submarine's lights flickered for a moment before 
+  a cheerful chime confirmed they were correct. </p>
+
+ <p> "Great job, Seafaring Sleuths!" the voice said. "You have successfully navigated the first part of your 
+  journey. Prepare for the next challenge!" </p>
+  
+ <p> The submarine continued its journey deeper into the ocean. The friends felt a mix of excitement and
+   curiosity about what lay ahead. They knew that with teamwork and a little bit of math, they could 
+   handle anything the SS Curiosity threw at them.  </p>
+
+  </subsection>
 </section>

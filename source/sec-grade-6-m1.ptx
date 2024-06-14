@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-grade-6-m1" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>The SS Curiosity</title>
+  <title>Adventure Begins</title>
 
 <p>This is the pilot and origin story for the Seafaring Sleuths at a sixth grade level.</p> 
 
@@ -44,7 +44,7 @@
     <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
 
 
-    </introduction><myopenmath problem="1388102" />
+    </introduction><myopenmath problem="1388450" />
   </exercise>
   
   
@@ -54,7 +54,7 @@
     <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
 
 
-    </introduction><myopenmath problem="1388106" />
+    </introduction><myopenmath problem="1388454" />
   </exercise>
   
   

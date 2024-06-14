@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-grade-6-m6" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Secrets of the Sunken City </title>
+
+  <subsection><title>Common Core Standards Touched</title>
+    <p> The following Common Core Standards are touched as learners work through
+      this Seafaring Sleuth's story.
+      <ul>
+          <li><c>CCSS.MATH.CONTENT.6.RP.A.3.c</c> Find a percent of a quantity 
+            as a rate per 100; solve problems involving finding the whole, given a part 
+            and the percent. </li>
+
+    </ul>
+    </p>
+    </subsection>
+
+    <subsection><title>Secrets of the Sunken City</title>
+
+      <p>The SS Curiosity moved deeper into the mysterious ocean, approaching the heart of the Sunken City. 
+        The ancient ruins were covered in glowing algae, casting an eerie but beautiful light. As the submarine 
+        approached, the screen lit up once again. </p>
+
+        <p>The friendly voice spoke, "Welcome back, Seafaring Sleuths. To uncover the secrets of the Sunken City, 
+            you must solve these challenges. Good luck!" </p>
+       
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="123456" />
+       </exercise>
+       
+       
+       <p>The submarine's lights flashed green, indicating their answer was correct. The gates to the ancient library 
+        slowly opened to reveal a treasure vault. Another question appeared on the screen. </p>
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="123456" />
+       </exercise>
+       
+       
+      <p>The submarine's lights flickered, and a cheerful chime confirmed their answer was correct. The treasure vault door 
+        slowly opened, revealing ancient gold and gems.  </p>
+     
+       <p> Suddenly, the gates closed behind them. They needed to find another way out! </p>
+
+       <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+       </introduction><myopenmath problem="123456" />
+     </exercise>
+       
+      <p>The submarine's lights flashed green, indicating their answer was correct. The layout of the city appeared on 
+        the screen, revealing hidden passages and chambers.  </p>
+
+        <p>"Excellent work, Seafaring Sleuths!" the voice said. "You have uncovered the secrets of the Sunken City. 
+            Prepare for the next adventure!" </p>
+
+         <p>   The submarine moved smoothly through the newly revealed passage, deeper into the ancient ruins. The 
+            friends felt a sense of accomplishment and excitement. They knew more challenges awaited them, but 
+            they were confident that with their combined skills and a bit of math, they could overcome any obstacle. </p>
+     
+       </subsection>
+
+</section>

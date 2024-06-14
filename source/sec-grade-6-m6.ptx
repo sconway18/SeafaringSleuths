@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-grade-6-m6" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Final Challenge</title>
+
+  <subsection><title>Common Core Standards Touched</title>
+    <p> The following Common Core Standards are touched as learners work through
+      this Seafaring Sleuth's story.
+      <ul>
+          <li><c>CCSS.MATH.CONTENT.6.RP.A.3.D</c> Use ratio reasoning to convert 
+            measurement units; manipulate and transform units appropriately when 
+            multiplying or dividing quantities.  </li>
+
+    </ul>
+    </p>
+    </subsection>
+
+    <subsection><title>The Final Challenge</title>
+
+      <p>The SS Curiosity moved further into the depths of the Sunken City, guided by the map they had uncovered. 
+        The passageways grew narrower, and the submarine had to navigate carefully through the ancient ruins. 
+        The screen lit up once more, signaling the final challenge ahead.  </p>
+       
+        <p> The friendly voice spoke, "You have come far, Seafaring Sleuths. To complete your journey and uncover 
+            the final secret of the Sunken City, you must use your math skills one last time. Good luck!" </p>
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="123456" />
+       </exercise>
+       
+       
+       <p>The submarine's lights flashed green, indicating their answer was correct. The final chamber door slowly opened. </p>
+       
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+         </introduction><myopenmath problem="123456" />
+       </exercise>
+       
+       
+      <p>The submarine's lights flickered, and a cheerful chime confirmed their answer was correct. The ancient machine whirred to life, 
+        revealing a hidden staircase leading to the heart of the Sunken City.  </p>
+
+        <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+     
+     
+        </introduction><myopenmath problem="123456" />
+      </exercise>
+     
+       <p> The submarine's lights flashed green, and a triumphant melody played, signaling their success. </p>
+
+      <p>  "Congratulations, Seafaring Sleuths!" the voice said. "You have completed the final challenge and 
+        unlocked the secrets of the Sunken City. Prepare to ascend and share your discoveries with the world!" </p> 
+        
+       <p> The submarine slowly ascended from the depths of the ocean, carrying the friends and their newfound 
+        knowledge. As they broke the surface, they saw the familiar shores of Seabrook. They knew their adventure 
+        had come to an end, but the memories and lessons would stay with them forever.  </p>
+
+        <p> Lily, Max, Mia, and Hopscotch emerged from the SS Curiosity, greeted by their families and friends. 
+            They shared tales of their journey, the math challenges they overcame, and the wonders they discovered 
+            in the Sunken City. </p>
+
+       <p> The friends knew that their adventures had just begun. With their curiosity and problem-solving skills, 
+        they were ready for whatever the future held. </p>
+            
+         <p><b>The End</b></p>
+     
+       </subsection>
+
+</section>
