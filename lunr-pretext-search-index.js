@@ -141,8 +141,8 @@ var ptx_lunr_docs = [
   "url": "sec-grade-6-m1.html",
   "type": "Section",
   "number": "6.1",
-  "title": "The SS Curiosity",
-  "body": " The SS Curiosity  This is the pilot and origin story for the Seafaring Sleuths at a sixth grade level.  Common Core Standards Touched   CCSS.MATH.CONTENT.6.RP.A.1 : understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.  CCSS.MATH.CONTENT.6.RP.A.2 : Understand the concept of a unit rate associated with a ratio with , and use rate language in the context of a ratio relationship.    Adventure Begins  In Seabrook, a small town by the sea, three best friends named Lily, Max, and Mia loved to play on the beach. They liked to look for seashells and watch the waves. Lily's pet rooster, Hopscotch, always followed them, pecking in the sand.  One sunny day, Max saw something strange on the sand. It was an old submarine, covered in seaweed and barnacles. The friends were amazed! They had never seen a real submarine before. They found a note on the submarine. It said, \"To the brave adventurers who find this, the seas need your help. Come aboard and set sail!\"  Lily, Max, and Mia were so excited. They climbed into the submarine. Inside, they saw many buttons, levers, and screens. Everything looked easy to use, as if it was made for kids. They also found a small library with books about math and science. It seemed like the submarine wanted them to learn new things.  Mia saw a big chair with lots of buttons around it. She was so excited that she tripped and fell. Her hand hit the biggest, shiniest, red button. A screen lit up. The friends looked at the screen, and a voice said, \"Hello Seafaring Sleuths. Welcome aboard the SS Curiosity!\" A question was on the screen.  A Random Problem   They typed the answers into the control panel. They heard a loud whoosh and felt the submarine rise. A new question appeared on the screen.  A Random Problem   They typed in the answer and felt the submarine start to move. The SS Curiosity began to glide out to sea. Lily, Max, and Mia, along with Hopscotch, looked at each other with wide eyes. They didn’t know where they were going, but they knew it would be an adventure!   "
+  "title": "6.1 Adventure Begins",
+  "body": " 6.1 Adventure Begins  This is the pilot and origin story for the Seafaring Sleuths at a sixth grade level.  Common Core Standards Touched   CCSS.MATH.CONTENT.6.RP.A.1 : understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.  CCSS.MATH.CONTENT.6.RP.A.2 : Understand the concept of a unit rate associated with a ratio with , and use rate language in the context of a ratio relationship.    Adventure Begins  In Seabrook, a small town by the sea, three best friends named Lily, Max, and Mia loved to play on the beach. They liked to look for seashells and watch the waves. Lily's pet rooster, Hopscotch, always followed them, pecking in the sand.  One sunny day, Max saw something strange on the sand. It was an old submarine, covered in seaweed and barnacles. The friends were amazed! They had never seen a real submarine before. They found a note on the submarine. It said, \"To the brave adventurers who find this, the seas need your help. Come aboard and set sail!\"  Lily, Max, and Mia were so excited. They climbed into the submarine. Inside, they saw many buttons, levers, and screens. Everything looked easy to use, as if it was made for kids. They also found a small library with books about math and science. It seemed like the submarine wanted them to learn new things.  Mia saw a big chair with lots of buttons around it. She was so excited that she tripped and fell. Her hand hit the biggest, shiniest, red button. A screen lit up. The friends looked at the screen, and a voice said, \"Hello Seafaring Sleuths. Welcome aboard the SS Curiosity!\" A question was on the screen.  A Random Problem   They typed the answers into the control panel. They heard a loud whoosh and felt the submarine rise. A new question appeared on the screen.  A Random Problem   They typed in the answer and felt the submarine start to move. The SS Curiosity began to glide out to sea. Lily, Max, and Mia, along with Hopscotch, looked at each other with wide eyes. They didn’t know where they were going, but they knew it would be an adventure!   "
 },
 {
   "id": "sec-grade-6-m1-4-6",
@@ -168,8 +168,152 @@ var ptx_lunr_docs = [
   "url": "sec-grade-6-m2.html",
   "type": "Section",
   "number": "6.2",
-  "title": "Placeholder",
-  "body": " Placeholder  Chapter 2 will go here  "
+  "title": "6.2 The First Challenge",
+  "body": " 6.2 The First Challenge  This is Chapter 2 of the Seafaring Sleuths at a sixth grade level.  Common Core Standards Touched  The following Common Core Standards are touched as learners work through this Seafaring Sleuth's story.  CCSS.MATH.CONTENT.6.RP.A.3 Use ratio and rate reasoning to solve real-world and mathematical problems.     The First Challenge  The SS Curiosity glided smoothly beneath the waves. Through the portholes, Lily, Max, and Mia could see schools of colorful fish swimming by. Hopscotch clucked nervously but stayed close to Lily.  The screen in front of them lit up again, and the friendly voice spoke, \"To ensure your safe passage and help the seas, you must solve the challenges that lie ahead. Your first challenge awaits. Good luck, Seafaring Sleuths!\"  A new question appeared on the screen:  A Random Problem   Max quickly grabbed a pencil and paper from the desk in the corner as Mia peered over his shoulder. They typed their answer into the control panel. The submarine gave a little jolt and then started to move at the correct speed. They were on their way through the canyon!  As they emerged from the canyon, they found themselves in a beautiful underwater garden. Tall seaweed swayed with the current, and brightly colored coral dotted the landscape. But the screen lit up once more with a new challenge.  A Random Problem   They entered their answer into the control panel. The submarine's lights flickered for a moment before a cheerful chime confirmed they were correct.  \"Great job, Seafaring Sleuths!\" the voice said. \"You have successfully navigated the first part of your journey. Prepare for the next challenge!\"  The submarine continued its journey deeper into the ocean. The friends felt a mix of excitement and curiosity about what lay ahead. They knew that with teamwork and a little bit of math, they could handle anything the SS Curiosity threw at them.   "
+},
+{
+  "id": "sec-grade-6-m2-4-5",
+  "level": "2",
+  "url": "sec-grade-6-m2.html#sec-grade-6-m2-4-5",
+  "type": "Checkpoint",
+  "number": "6.2.1",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m2-4-8",
+  "level": "2",
+  "url": "sec-grade-6-m2.html#sec-grade-6-m2-4-8",
+  "type": "Checkpoint",
+  "number": "6.2.2",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m3",
+  "level": "1",
+  "url": "sec-grade-6-m3.html",
+  "type": "Section",
+  "number": "6.3",
+  "title": "6.3 The Underwater Puzzle",
+  "body": " 6.3 The Underwater Puzzle  Common Core Standards Touched  The following Common Core Standards are touched as learners work through this Seafaring Sleuth's story.  CCSS.MATH.CONTENT.6.RP.A.3.A Make tables of equivalent ratios relating quantities with whole-number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.     The Underwater Puzzle  As the SS Curiosity glided further into the deep ocean, the friends marveled at the fascinating marine life around them. Suddenly, the submarine came to a gentle stop. The screen lit up again, and the friendly voice spoke, \"To continue your journey, you must solve the next challenge. Use your math skills to navigate successfully.\"  A new screen appeared, displaying a complex-looking underwater puzzle.  A Random Problem   They typed the completed table into the control panel. The screen flashed a bright green, indicating their answers were correct. Another question appeared.  A Random Problem   Lily stated, \"We can use this graph to predict future values. It's like a map guiding us forward.\"  The control panel beeped and displayed a new message, \"Great job, Seafaring Sleuths! You have successfully navigated this part of your journey. Prepare for the next adventure!\"  The submarine started moving again, smoothly and confidently. The friends knew they were getting better at solving the challenges and felt ready for whatever came next.  The screen went dark, and the friends took a moment to relax. They knew more adventures and puzzles awaited them, but with teamwork and a little math, they felt prepared for anything.   "
+},
+{
+  "id": "sec-grade-6-m3-3-4",
+  "level": "2",
+  "url": "sec-grade-6-m3.html#sec-grade-6-m3-3-4",
+  "type": "Checkpoint",
+  "number": "6.3.1",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m3-3-6",
+  "level": "2",
+  "url": "sec-grade-6-m3.html#sec-grade-6-m3-3-6",
+  "type": "Checkpoint",
+  "number": "6.3.2",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m4",
+  "level": "1",
+  "url": "sec-grade-6-m4.html",
+  "type": "Section",
+  "number": "6.4",
+  "title": "6.4 The Sunken City",
+  "body": " 6.4 The Sunken City  Common Core Standards Touched  The following Common Core Standards are touched as learners work through this Seafaring Sleuth's story.  CCSS.MATH.CONTENT.6.RP.A.3.B Solve unit rate problems including those involving unit pricing and constant speed.      The Sunken City  The SS Curiosity continued its voyage through the deep ocean, the waters growing darker and the mysteries deepening. Suddenly, the submarine's lights illuminated a grand, ancient city submerged beneath the waves. The screen flickered on once more, and the friendly voice said, \"Welcome to the Sunken City. To proceed, you must solve the following challenges.\"  A Random Problem   The submarine's lights flashed green, signaling the correct answer and the screen displayed another question:  A Random Problem   The submarine's lights flickered, and a cheerful chime confirmed their answer was correct.  \"Excellent work, Seafaring Sleuths!\" the voice said. \"You have successfully navigated the Sunken City. Prepare for the next adventure!\"  The submarine glided smoothly out of the ancient city, moving deeper into the unknown. The friends felt a sense of accomplishment and excitement. They knew more challenges awaited them, but they were confident that with their combined skills and a bit of math, they could overcome any obstacle.   "
+},
+{
+  "id": "sec-grade-6-m4-3-3",
+  "level": "2",
+  "url": "sec-grade-6-m4.html#sec-grade-6-m4-3-3",
+  "type": "Checkpoint",
+  "number": "6.4.1",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m4-3-5",
+  "level": "2",
+  "url": "sec-grade-6-m4.html#sec-grade-6-m4-3-5",
+  "type": "Checkpoint",
+  "number": "6.4.2",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m6",
+  "level": "1",
+  "url": "sec-grade-6-m6.html",
+  "type": "Section",
+  "number": "6.5",
+  "title": "6.5 Secrets of the Sunken City",
+  "body": " 6.5 Secrets of the Sunken City  Common Core Standards Touched  The following Common Core Standards are touched as learners work through this Seafaring Sleuth's story.  CCSS.MATH.CONTENT.6.RP.A.3.c Find a percent of a quantity as a rate per 100; solve problems involving finding the whole, given a part and the percent.     Secrets of the Sunken City  The SS Curiosity moved deeper into the mysterious ocean, approaching the heart of the Sunken City. The ancient ruins were covered in glowing algae, casting an eerie but beautiful light. As the submarine approached, the screen lit up once again.  The friendly voice spoke, \"Welcome back, Seafaring Sleuths. To uncover the secrets of the Sunken City, you must solve these challenges. Good luck!\"  A Random Problem   The submarine's lights flashed green, indicating their answer was correct. The gates to the ancient library slowly opened to reveal a treasure vault. Another question appeared on the screen.  A Random Problem   The submarine's lights flickered, and a cheerful chime confirmed their answer was correct. The treasure vault door slowly opened, revealing ancient gold and gems.  Suddenly, the gates closed behind them. They needed to find another way out!  A Random Problem   The submarine's lights flashed green, indicating their answer was correct. The layout of the city appeared on the screen, revealing hidden passages and chambers.  \"Excellent work, Seafaring Sleuths!\" the voice said. \"You have uncovered the secrets of the Sunken City. Prepare for the next adventure!\"  The submarine moved smoothly through the newly revealed passage, deeper into the ancient ruins. The friends felt a sense of accomplishment and excitement. They knew more challenges awaited them, but they were confident that with their combined skills and a bit of math, they could overcome any obstacle.   "
+},
+{
+  "id": "sec-grade-6-m6-3-4",
+  "level": "2",
+  "url": "sec-grade-6-m6.html#sec-grade-6-m6-3-4",
+  "type": "Checkpoint",
+  "number": "6.5.1",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m6-3-6",
+  "level": "2",
+  "url": "sec-grade-6-m6.html#sec-grade-6-m6-3-6",
+  "type": "Checkpoint",
+  "number": "6.5.2",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m6-3-9",
+  "level": "2",
+  "url": "sec-grade-6-m6.html#sec-grade-6-m6-3-9",
+  "type": "Checkpoint",
+  "number": "6.5.3",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m6",
+  "level": "1",
+  "url": "sec-grade-6-m6.html",
+  "type": "Section",
+  "number": "6.6",
+  "title": "6.6 The Final Challenge",
+  "body": " 6.6 The Final Challenge  Common Core Standards Touched  The following Common Core Standards are touched as learners work through this Seafaring Sleuth's story.  CCSS.MATH.CONTENT.6.RP.A.3.D Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.      The Final Challenge  The SS Curiosity moved further into the depths of the Sunken City, guided by the map they had uncovered. The passageways grew narrower, and the submarine had to navigate carefully through the ancient ruins. The screen lit up once more, signaling the final challenge ahead.  The friendly voice spoke, \"You have come far, Seafaring Sleuths. To complete your journey and uncover the final secret of the Sunken City, you must use your math skills one last time. Good luck!\"  A Random Problem   The submarine's lights flashed green, indicating their answer was correct. The final chamber door slowly opened.  A Random Problem   The submarine's lights flickered, and a cheerful chime confirmed their answer was correct. The ancient machine whirred to life, revealing a hidden staircase leading to the heart of the Sunken City.  A Random Problem   The submarine's lights flashed green, and a triumphant melody played, signaling their success.  \"Congratulations, Seafaring Sleuths!\" the voice said. \"You have completed the final challenge and unlocked the secrets of the Sunken City. Prepare to ascend and share your discoveries with the world!\"  The submarine slowly ascended from the depths of the ocean, carrying the friends and their newfound knowledge. As they broke the surface, they saw the familiar shores of Seabrook. They knew their adventure had come to an end, but the memories and lessons would stay with them forever.  Lily, Max, Mia, and Hopscotch emerged from the SS Curiosity, greeted by their families and friends. They shared tales of their journey, the math challenges they overcame, and the wonders they discovered in the Sunken City.  The friends knew that their adventures had just begun. With their curiosity and problem-solving skills, they were ready for whatever the future held.  The End   "
+},
+{
+  "id": "sec-grade-6-m6-3-4",
+  "level": "2",
+  "url": "sec-grade-6-m6.html#sec-grade-6-m6-3-4",
+  "type": "Checkpoint",
+  "number": "6.6.1",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m6-3-6",
+  "level": "2",
+  "url": "sec-grade-6-m6.html#sec-grade-6-m6-3-6",
+  "type": "Checkpoint",
+  "number": "6.6.2",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
+},
+{
+  "id": "sec-grade-6-m6-3-8",
+  "level": "2",
+  "url": "sec-grade-6-m6.html#sec-grade-6-m6-3-8",
+  "type": "Checkpoint",
+  "number": "6.6.3",
+  "title": "A Random Problem.",
+  "body": "A Random Problem  "
 },
 {
   "id": "backmatter-2",
