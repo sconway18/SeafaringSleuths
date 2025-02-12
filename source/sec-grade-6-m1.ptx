@@ -41,7 +41,7 @@
     Seafaring Sleuths. Welcome aboard the SS Curiosity!" A question was on the 
     screen. </p>
   
-    <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+    <exercise exercise-customization="inline" exercise-interactive="static"><title>Welcome Aboard</title><introduction>
 
 
     </introduction><myopenmath problem="1388450" />
@@ -51,7 +51,7 @@
   <p>They typed the answers into the control panel. They heard a loud whoosh and 
     felt the submarine rise. A new question appeared on the screen. </p>
   
-    <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+    <exercise exercise-customization="inline" exercise-interactive="static"><title>Set the Speed</title><introduction>
 
 
     </introduction><myopenmath problem="1388454" />
