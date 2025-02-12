@@ -25,7 +25,7 @@
        <p>A new screen appeared, displaying a complex-looking underwater puzzle. </p>
        
        
-         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Ratio Table</title><introduction>
      
      
          </introduction><myopenmath problem="1391739" />
@@ -35,7 +35,7 @@
        <p>They typed the completed table into the control panel. The screen flashed a bright green, indicating their 
         answers were correct. Another question appeared. </p>
        
-         <exercise exercise-customization="inline" exercise-interactive="static"><title>A Random Problem</title><introduction>
+         <exercise exercise-customization="inline" exercise-interactive="static"><title>Find the Path</title><introduction>
      
      
          </introduction><myopenmath problem="1391745" />
